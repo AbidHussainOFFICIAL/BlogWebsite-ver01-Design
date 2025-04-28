@@ -19,7 +19,7 @@
 
 ### Demo Screenshots
 
-![Blog Website Demo](./readme-images/desktop.png "Desktop Demo")
+<!-- ![Blog Website Demo](./readme-images/desktop.png "Desktop Demo") -->
 
 ### Prerequisites
 
@@ -40,7 +40,7 @@ git clone https://github.com/AbidHussainOFFICIAL/BlogWebsite-ver01-Design.git
 Windows:
 
 ```bash
-git clone https://github.com/AbidHussainOFFICIAL/AirportWebsite-design.git
+git clone https://github.com/AbidHussainOFFICIAL/BlogWebsite-ver01-Design.git
 ```
 
 ### Contact
